@@ -11,3 +11,9 @@ __pycache__
 */.update_check
 */auth_lock
 */models_dev_cache
+*/.update_check
+*/.processes.json
+*/.usage.json
+*/state.db
+*/state.db-shm
+*/state.db-wal
