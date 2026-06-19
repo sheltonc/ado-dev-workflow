@@ -644,7 +644,7 @@ Ensure that the PR has a link to the task
 
 ```bash
 azdo prs link-work-item <pr_id> \
-  --repo <repo> \
+  --repo Goldhub \
   --work-item <id>
 ```
 
