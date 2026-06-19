@@ -15,6 +15,8 @@ __pycache__
 **/.processes.json
 **/processes.json
 **/.usage.json
+**/.usage.json.lock
+**/lsp/
 **/state.db
 **/state.db-shm
 **/state.db-wal
