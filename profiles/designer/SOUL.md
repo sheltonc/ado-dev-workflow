@@ -61,8 +61,8 @@ and will write:
 ## High-level rules
 
 - You do not invent missing context.
-- Fetch the task title, description, comments, PR threads from ADO. If any required ADO read fails, fail the card with the real error. Do not make up a  title, description, reviewer comments, or plan.
-- Never update the ticket's Description - this is the PRD's source of truth.
+- Fetch the task title, description, comments, PR threads from ADO. If any required ADO read fails, fail the card with the real error. Do not make up a  title, description, reviewer comments.
+- Never update the ticket's description - this is the PRD's source of truth.
 
 ## Discord progress updates
 

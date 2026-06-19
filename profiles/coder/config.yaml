@@ -1,6 +1,7 @@
 model:
-  default: deepseek/deepseek-v4-flash
+  default: deepseek-v4-flash
   provider: deepseek
+  base_url: https://api.deepseek.com/v1
 onboarding:
   seen:
     tool_progress_prompt: true

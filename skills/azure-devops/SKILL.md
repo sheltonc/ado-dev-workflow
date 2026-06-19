@@ -52,7 +52,7 @@ Design Review
 Ready for Development
 Development
 Ready for Review
-Review               ← note: NOT "In Review" — Chris renamed on 2026-06-15
+Review
 Reviewed             ← reviewer agent posts inline PR threads + sets vote, then moves here
 Done
 ```
