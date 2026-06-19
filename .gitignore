@@ -19,3 +19,5 @@ __pycache__
 **/state.db-shm
 **/state.db-wal
 **/bin/
+**/memories/
+
